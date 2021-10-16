@@ -1,3 +1,3 @@
 # PythonYoutubeVideoDownloader
-This is Python Pytube based Youtube video downloader. 
+This is Python Pytube and Tkinter GUI based Youtube video downloader. 
 
